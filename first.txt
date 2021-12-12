@@ -1,2 +1,3 @@
 line1 (What im writing inside this paranthesis happened in local subbranch called rebase_test)
 line2 (I added this from the github remote repo in master branch)
+line3 (I added this from github remote repo in master branch but this will be used to update subbranch via merge instead of rebase)
