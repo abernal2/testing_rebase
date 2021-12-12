@@ -1,2 +1,2 @@
-line1
+line1 (What im writing inside this paranthesis happened in local subbranch called rebase_test)
 line2 (I added this from the github remote repo in master branch)
